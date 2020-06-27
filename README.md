@@ -4,14 +4,11 @@ PDown下载器后继版,百度网盘代下载
 
 > PDown是个人项目，开始是作为毕业设计立项，为了方便宿舍下载试验资料。 现在分享出来希望可以帮助到更多的人
 
-[演示地址 https://pdown.baklib.com/luxiang/a8f4](https://pdown.baklib.com/luxiang/a8f4)
-
-
 
 ---
 ### 0.更新时间：2020-6-23 13:38，请参阅 [更新日志.md](更新日志.md)  
   
-#### 下载地址： [PDown v3.4.6.zip直接下载](https://assets.baklib.com/aea1138f-02f2-4d1d-9c75-e481b31885ab/PDown%20v3.4.61592887933561.zip)  ---   [baklib 下载](https://pdown.baklib.com/)  ---  [Github 下载](https://github.com/forpdown/pdown/releases/download/v3.04.04/PDown.v3.4.6.zip)  ---  [文叔叔 下载](https://ws28.cn/f/2u994wwe0d9)
+#### 下载地址：  [Github 下载](https://github.com/forpdown/pdown/releases/download/v3.04.04/PDown.v3.4.6.zip)  ---  [文叔叔 下载](https://ws28.cn/f/2u994wwe0d9)
 
   
 ### 1.安装使用
